@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onehalf" format="1">
+  <advance width="779"/>
+  <unicode hex="00BD"/>
+  <outline>
+    <contour>
+      <point x="119" y="245" type="line" smooth="yes"/>
+      <point x="117" y="237" smooth="yes"/>
+      <point x="110" y="231" smooth="yes"/>
+      <point x="102" y="231" type="curve" smooth="yes"/>
+      <point x="32" y="231" type="line"/>
+      <point x="28" y="213" type="line"/>
+      <point x="226" y="213" type="line"/>
+      <point x="230" y="231" type="line"/>
+      <point x="184" y="231" type="line" smooth="yes"/>
+      <point x="178" y="231" smooth="yes"/>
+      <point x="173" y="235" smooth="yes"/>
+      <point x="173" y="241" type="curve" smooth="yes"/>
+      <point x="173" y="242" smooth="yes"/>
+      <point x="173" y="244" smooth="yes"/>
+      <point x="229" y="505" type="curve" smooth="yes"/>
+      <point x="237" y="541"/>
+      <point x="244" y="564"/>
+      <point x="253" y="583" type="curve"/>
+      <point x="234" y="575"/>
+      <point x="192" y="564"/>
+      <point x="99" y="550" type="curve"/>
+      <point x="95" y="531" type="line"/>
+      <point x="168" y="535" type="line" smooth="yes"/>
+      <point x="176" y="535" smooth="yes"/>
+      <point x="179" y="532" smooth="yes"/>
+      <point x="179" y="527" type="curve" smooth="yes"/>
+      <point x="179" y="526" smooth="yes"/>
+      <point x="178" y="524" smooth="yes"/>
+      <point x="178" y="522" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="642" y="347" type="curve" smooth="yes"/>
+      <point x="668" y="347" smooth="yes"/>
+      <point x="684" y="329" smooth="yes"/>
+      <point x="684" y="298" type="curve" smooth="yes"/>
+      <point x="684" y="272" smooth="yes"/>
+      <point x="667" y="214" smooth="yes"/>
+      <point x="614" y="161" type="curve" smooth="yes"/>
+      <point x="452" y="0" type="line"/>
+      <point x="615" y="0" type="line" smooth="yes"/>
+      <point x="648" y="0"/>
+      <point x="673" y="-4"/>
+      <point x="687" y="-8" type="curve" name="hr01"/>
+      <point x="688" y="6" smooth="yes"/>
+      <point x="691" y="45" smooth="yes"/>
+      <point x="699" y="80" type="curve" smooth="yes"/>
+      <point x="706" y="113" type="line"/>
+      <point x="687" y="113" type="line"/>
+      <point x="668" y="56" type="line" smooth="yes"/>
+      <point x="665" y="48" smooth="yes"/>
+      <point x="661" y="45" smooth="yes"/>
+      <point x="654" y="45" type="curve" smooth="yes" name="hr02"/>
+      <point x="531" y="45" type="line"/>
+      <point x="628" y="140" type="line" smooth="yes"/>
+      <point x="678" y="189" smooth="yes"/>
+      <point x="742" y="245" smooth="yes"/>
+      <point x="742" y="297" type="curve" smooth="yes"/>
+      <point x="742" y="334" smooth="yes"/>
+      <point x="713" y="366" smooth="yes"/>
+      <point x="645" y="366" type="curve" smooth="yes"/>
+      <point x="572" y="366" smooth="yes"/>
+      <point x="527" y="319" smooth="yes"/>
+      <point x="527" y="273" type="curve" smooth="yes"/>
+      <point x="527" y="258" smooth="yes"/>
+      <point x="534" y="249" smooth="yes"/>
+      <point x="549" y="249" type="curve" smooth="yes"/>
+      <point x="563" y="249"/>
+      <point x="577" y="254"/>
+      <point x="584" y="259" type="curve"/>
+      <point x="583" y="264" smooth="yes"/>
+      <point x="582" y="269" smooth="yes"/>
+      <point x="582" y="275" type="curve" smooth="yes"/>
+      <point x="582" y="307" smooth="yes"/>
+      <point x="598" y="347" smooth="yes"/>
+    </contour>
+    <component  base="fraction" xOffset="228"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="13" width="-21" />
+      <hstem pos="583" width="-20" />
+      <vstem pos="684" width="58" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="0" width="45" />
+      <hstem pos="583" width="-20" />
+      <vstem pos="684" width="58" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

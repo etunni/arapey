@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron.case" format="1">
+  <advance width="312"/>
+  <outline>
+    <contour>
+      <point x="35" y="732" type="line" name="hr00"/>
+      <point x="277" y="732" type="line"/>
+      <point x="277" y="786" type="line"/>
+      <point x="35" y="786" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="753" width="-21" />
+      <hstem pos="786" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslashacute" format="1">
+  <advance width="627"/>
+  <unicode hex="01FE"/>
+  <outline>
+    <component  base="acute" xOffset="307" yOffset="198"/>
+    <component  base="O"/>
+    <component  base="slash" xOffset="174" yOffset="31"/>
+  </outline>
+</glyph>
