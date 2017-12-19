@@ -1,0 +1,1 @@
+Arapey (Ah-ra-pay) is a contemporary modern typeface with some features of a Bodoni, but the structures, soft lines, and finishes leave a calm and distinguished feeling. The first sketches were made during a vacation in Arapey, a small town the north of Uruguay. The italics are gentle, rhythmic, and bring a special glamour to both text use and titles.
