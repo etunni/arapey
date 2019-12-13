@@ -1,4 +1,4 @@
-TTFDIR=./fonts/statis/ttf
+TTFDIR=./fonts/static/ttf
 VFDIR=./fonts
 mkdir -p $TTFDIR
 mkdir -p $VFDIR
@@ -6,8 +6,7 @@ rm -r $TTFDIR/*.ttf
 rm -r $VFDIR/*.ttf
 
 # # Build static instances
-# fontmake -g ./Sources/Petrona-ROMAN-MASTER-NEW-W.glyphs -o ttf -i --output-dir $TTFDIR -a
-# fontmake -g ./Sources/Petrona-ITALIC-MASTER-NEW-W.glyphs -o ttf -i --output-dir $TTFDIR -a
+# fontmake -g ./src/Arapey-VF-pro-NOV.glyphs -o ttf -i --output-dir $TTFDIR -a
 # for f in $TTFDIR/*.ttf
 # do
 # 	echo Processing $f
