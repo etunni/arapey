@@ -10,3 +10,4 @@
 # Name <email address>
 
 Eduardo Rodríguez Tunni <edu@tipo.net.ar>
+Jan "Yanone" Gerner <post@yanone.de>
