@@ -4,7 +4,7 @@ Arapey (Ah-ra-pay) is a contemporary modern typeface with some features of a Bod
 The first sketches were made during a vacation in Arapey, a small town the north of Uruguay.
 The italics are gentle, rhythmic, and bring a special glamour to both text use and titles.
 
-![Sample of Arapey.](docs/ARAPEY-COVER.jpg)
+![Sample of Arapey.](docs/arapey-vf-sample.jpg)
 
 ## Variable Axes
 
